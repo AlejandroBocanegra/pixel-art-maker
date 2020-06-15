@@ -62,10 +62,10 @@ grid-template-rows: 1fr 1fr;
     
 }
 
-#pink {
+#white {
     grid-column: 2;
     grid-row: 1;
-    background-color: pink;
+    background-color: white;
     text-align: center;
 }
 
@@ -110,7 +110,7 @@ grid-template-rows: 1fr 1fr;
 #brown {
     grid-column: 3;
     grid-row: 2;
-    background-color: brown;
+    background-color: rgb(165, 101, 42);
     color: white;
     text-align: center;
 }
